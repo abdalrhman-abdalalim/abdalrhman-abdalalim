@@ -49,7 +49,7 @@ Abdalrhman Aboalela</a></h1>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/abdalrhman_mhamd/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/u/abdalrhmanAboalela/">
-			<img height="35" width="35" src="https://miro.medium.com/v2/resize:fit:1400/1*W_4Of01mOUSTv3eX0YIdzg.jpeg" ></a>
+			<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/b3fec0013341d0a51f3d67a12fa003ff3972a1f7/topics/leetcode/leetcode.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
