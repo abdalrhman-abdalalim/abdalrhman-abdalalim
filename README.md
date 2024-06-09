@@ -46,10 +46,10 @@ Abdalrhman Aboalela</a></h1>
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://codeforces.com/profile/Abdalrhman_Aboalela">
 				<img  height="35" width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/abdalrhman_mhamd/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/abdalrhman_mhamd/">
-			<img height="35" width="35" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/u/abdalrhmanAboalela/">
+			<img height="35" width="35" src="https://image.pngaaa.com/118/4868118-middle.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
