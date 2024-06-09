@@ -33,7 +33,7 @@ Abdalrhman Aboalela</a></h1>
 - Easily working with Git & GitHub
 - Help my friends and students in our university to start their way in learning problem-solving and programming fundamentals
 - My typing speed on the keyboard is 60 WPS it is interesting to me 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/abdalrhman-abdalalim/resume/blob/main/My%20cv.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
