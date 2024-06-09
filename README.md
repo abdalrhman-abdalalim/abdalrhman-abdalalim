@@ -50,8 +50,8 @@ Abdalrhman Aboalela</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/u/abdalrhmanAboalela/">
 			<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/b3fec0013341d0a51f3d67a12fa003ff3972a1f7/topics/leetcode/leetcode.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/abdalrhman-abdalalim/resume/blob/main/My%20cv.pdf">
+					<img  height="35" width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwqIRgJe1uL_IFZEmUxyzTMs_k7iL1Phrvw&s" ></a>
       </div>
 
 </p>
