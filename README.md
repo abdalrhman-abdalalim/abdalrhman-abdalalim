@@ -2,20 +2,28 @@
 Abdalrhman Aboalela</a></h1>
 <h3 align="center">Computer science student 4th year / Frontend Developer / Problem-solving mentor </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- I am currently learning frontend with react & looking forward to contributing to real react projects
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- Having knowledge and experience in some software basics topics like Object Oriented,Data structure, Algorithm, Solid Principles
 
-- 🤝 I’m available for freelancing.
+- Proficient with c++ and solving many problems with it
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- Have mastered many areas of programming like Web Development and server-side programming.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- Knows about most popular topics in Frontend React like :
+   - HTML
+   - CSS
+   - JS
+   - Bootstrap
+   - API
+   - React
 
 - 💬 Ask me about **Reactjs & React-Native**
 
