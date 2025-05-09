@@ -18,12 +18,17 @@ Abdalrhman Aboalela</a></h1>
 - Have mastered many areas of programming like Web Development and server-side programming.
 
 - Knows about most popular topics in Frontend React like :
-   - HTML
+   - React
+   - Next
+   - Tailwind
+   - Redux
+   - Framer-motion
+   - Axios
    - CSS
    - JS
    - Bootstrap
    - API
-   - React
+   - HTML
    - Responsive Web Screens
 
 - Knows about most popular topics in Programming like :
