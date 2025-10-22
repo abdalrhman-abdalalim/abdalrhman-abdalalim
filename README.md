@@ -1,20 +1,39 @@
 ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Abdalrhman</h2>
+<img alt="Night Coding" src="https://ibb.co/7Jn88vbK" width='40' align="left"/>
 
-👨🏻‍💻  About Me
+### 👋 Hello, I'm Abdalrhman Aboalela
 
-💡  I love building high-performance web applications and exploring new frontend technologies.
-🎓  I’m a Frontend Developer with strong experience in React, Next.js, TypeScript, and Tailwind CSS.
-🌱  I’m learning advanced concepts in System Design, Performance Optimization, and Cloud Architecture.
-✍️  In my free time, I enjoy organizing knowledge in Notion and Obsidian, solving coding challenges, and working on side projects.
-💬  Feel free to reach out for collaboration, mentoring, or interesting discussions.
-✉️  You can email me at abdalrhman.abdalalim@gmail.com
-. I try to respond quickly!
-📄  Check my Résumé
- for more details.
+I'm a Frontend Developer with 2+ years of experience building high-performance, scalable, and responsive web applications.  
 
-<img alt="Coding" src="https://raw.githubusercontent.com/abdalrhman-abdalalim/your-repo/master/assets/coding.gif" align="right"/>
+I'm on track for learning more about **Artificial Intelligence, Systems Design, and Cloud Architecture**.  
+In my free time, I enjoy **Graphic Design** and **Blog Writing** as hobbies/side hustles.  
+
+Feel free to reach out for **pro bono consulting, volunteering, or interesting discussions**.  
+📧 You can email me at **[avsingh@umass.edu](mailto:avsingh@umass.edu)** – I'll try to respond as soon as I can.
+
+---
+
+### 🛠 Core Skills
+
+- **Frameworks & State Management:** React.js, Next.js, Redux Toolkit, Zustand, React Query  
+- **APIs & Security:** RESTful APIs, Axios, JWT, Clerk  
+- **UI & Styling:** Tailwind CSS, Responsive Design, Animations  
+- **Validation & Forms:** React Hook Form, Zod  
+- **Best Practices:** SEO Optimization, Code Splitting, Lazy Loading, Accessibility  
+- **Tools:** Git, GitHub, Jira, Notion  
+
+---
+
+### 🚀 What I Deliver
+
+- Responsive landing pages & dynamic dashboards  
+- Optimized e-commerce platforms  
+- Scalable, maintainable codebases  
+- Seamless collaboration in agile environments
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -64,4 +83,4 @@
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-Last Edited on: 11/12/2020
+Last Edited on: 11/12/2020              update this to match my info 
