@@ -65,6 +65,9 @@ Feel free to reach out for **pro bono consulting, volunteering, or interesting d
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdalrhman-abdalalim&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
