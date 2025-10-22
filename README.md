@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://ibb.co/7Jn88vbK)
+![Aditya Vikram Singh Banner](https://github.com/abdalrhman-abdalalim/abdalrhman-abdalalim/blob/main/Gemini_Generated_Image_wcrpcmwcrpcmwcrp.png)
 
 
 ### 👋 Hello, I'm Abdalrhman Aboalela
