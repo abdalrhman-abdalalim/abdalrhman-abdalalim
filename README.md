@@ -69,10 +69,10 @@ Feel free to reach out for **pro bono consulting, volunteering, or interesting d
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abdalrhman-aboalela/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:abdalrhmanaboalela162@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/abdalrhman_mhamd/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/abdalrhman.aboalela.250929"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://abdalrhman-porftfolio.vercel.app/"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdalrhman-aboalela/"><img src="https://img.shields.io/badge/-Abdalrhman%20Aboalela-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:abdalrhmanaboalela162@gmail.com"><img src="https://img.shields.io/badge/-Abdalrhman%20Aboalela-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/abdalrhman_mhamd/"><img src="https://img.shields.io/badge/--Abdalrhman%20Aboalela-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/abdalrhman.aboalela.250929"><img src="https://img.shields.io/badge/-Abdalrhman%20Aboalela?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://abdalrhman-porftfolio.vercel.app/"><img src="https://img.shields.io/badge/-Abdalrhman%20Aboalela-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p>
 
