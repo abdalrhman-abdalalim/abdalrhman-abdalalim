@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://github.com/abdalrhman-abdalalim/abdalrhman-abdalalim/blob/main/ChatGPT%20Image%20Oct%2023%2C%202025%2C%2012_16_06%20AM.png)
+![Aditya Vikram Singh Banner](https://github.com/abdalrhman-abdalalim/abdalrhman-abdalalim/blob/main/Untitled%20Project.jpg)
 
 
 ### 👋 Hello, I'm Abdalrhman Aboalela
