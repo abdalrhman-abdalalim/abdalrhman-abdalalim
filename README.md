@@ -5,10 +5,9 @@
 
 I'm a Frontend Developer with 2+ years of experience building high-performance, scalable, and responsive web applications.  
 
-I'm on track for learning more about **Artificial Intelligence, Systems Design, and Cloud Architecture**.  
-In my free time, I enjoy **Graphic Design** and **Blog Writing** as hobbies/side hustles.  
+I’m currently focused on deepening my expertise in modern frontend technologies and building production-ready projects that emphasize clean architecture, performance, and user experience.
 
-Feel free to reach out for **pro bono consulting, volunteering, or interesting discussions**.  
+Beyond development, I enjoy teaching and mentoring beginners in programming and continuously exploring new tools and techniques to stay at the cutting edge of web development.
 📧 You can email me at **[abdalrhmanaboalela162@gmail.com](mailto:abdalrhmanaboalela162@gmail.com)** – I'll try to respond as soon as I can.
 
 ---
