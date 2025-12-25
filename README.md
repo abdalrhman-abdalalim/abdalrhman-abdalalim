@@ -1,7 +1,8 @@
+## Hello, I'm Abdalrhman Aboalela Frontend Developer (React.js | Next.js) |  Co-Founder @ Kernel Tech | Technical Lead @ Code Spark
 ![Aditya Vikram Singh Banner](https://github.com/abdalrhman-abdalalim/abdalrhman-abdalalim/blob/main/Untitled%20Project.jpg)
 
 
-### 👋 Hello, I'm Abdalrhman Aboalela
+
 
 I'm a Frontend Developer with 2+ years of experience building high-performance, scalable, and responsive web applications.  
 
