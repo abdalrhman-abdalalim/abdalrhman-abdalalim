@@ -1,4 +1,4 @@
-## Hello, I'm Abdalrhman Aboalela Frontend Developer (React.js | Next.js) |  Co-Founder @ [Kernel Tech](https://www.kerneltech.site/) | Technical Lead @ [Code Spark](https://www.codespark-eg.com/)
+## Hello, I'm Abdalrhman Aboalela Frontend Developer (React.js | Next.js) | Frontend Developer @ [WAZIN](https://www.wazin.sa/ar) | Frontend Team Leader @ [Kernel Tech](https://www.kerneltech.site/) | Technical Lead @ [Code Spark](https://www.codespark-eg.com/)
 ![Aditya Vikram Singh Banner](https://github.com/abdalrhman-abdalalim/abdalrhman-abdalalim/blob/main/Untitled%20Project.jpg)
 
 
